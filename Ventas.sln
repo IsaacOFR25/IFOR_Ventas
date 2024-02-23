@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Shared", "Sales.Shared\Sales.Shared.csproj", "{5EDEDA21-3C6E-4C97-B1FA-06B750DB206D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales.Shared", "Sales.Shared\Sales.Shared.csproj", "{5EDEDA21-3C6E-4C97-B1FA-06B750DB206D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Api", "Sales.Api\Sales.Api.csproj", "{B2BC4EA7-07AD-4316-B1DB-0AACE04FD5CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales.Api", "Sales.Api\Sales.Api.csproj", "{B2BC4EA7-07AD-4316-B1DB-0AACE04FD5CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor.WEB", "Blazor.WEB\Blazor.WEB.csproj", "{2561CDE0-CBCF-48D6-B15F-7EB1918341C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.WEB", "Blazor.WEB\Blazor.WEB.csproj", "{2561CDE0-CBCF-48D6-B15F-7EB1918341C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Mobile", "Sales.Mobile\Sales.Mobile.csproj", "{AF2F2B5C-B125-4370-AB93-9343C977EC45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales.Mobile", "Sales.Mobile\Sales.Mobile.csproj", "{AF2F2B5C-B125-4370-AB93-9343C977EC45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
